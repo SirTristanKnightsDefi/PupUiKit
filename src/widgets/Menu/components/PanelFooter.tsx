@@ -77,7 +77,7 @@ const PanelFooter: React.FC<Props> = ({
     <Container>
       <SocialEntry>        
         {cakePriceUsd ? (
-          <PriceLink href="https://pancakeswap.info/token/" target="_blank">
+          <PriceLink href="https://www.pupprotector.charity/" target="_blank">
             <img
               src="https://www.pupprotector.charity/wp-content/uploads/2023/03/msg5321545725-12202-1.jpg"
               alt="PUP Logo"

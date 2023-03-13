@@ -2736,7 +2736,7 @@ var PanelFooter = function (_a) {
                 React__default['default'].createElement(Icon$T, null))));
     }
     return (React__default['default'].createElement(Container, null,
-        React__default['default'].createElement(SocialEntry, null, cakePriceUsd ? (React__default['default'].createElement(PriceLink, { href: "https://pancakeswap.info/token/", target: "_blank" },
+        React__default['default'].createElement(SocialEntry, null, cakePriceUsd ? (React__default['default'].createElement(PriceLink, { href: "https://www.pupprotector.charity/", target: "_blank" },
             React__default['default'].createElement("img", { src: "https://www.pupprotector.charity/wp-content/uploads/2023/03/msg5321545725-12202-1.jpg", alt: "PUP Logo", style: {
                     width: "24px",
                     marginRight: "8px",
@@ -3188,17 +3188,17 @@ var templateObject_1;
 
 var baseColors = {
     failure: "#fa113e",
-    primary: "#09F39F",
-    primaryBright: "#09F39F",
-    primaryDark: "#4062CB",
-    secondary: "#FC8600",
+    primary: "#01BDC6",
+    primaryBright: "#01BDC6",
+    primaryDark: "#028E9B",
+    secondary: "#01BDC6",
     success: "#15bd69",
     warning: "#fa113e",
 };
 var brandColors = {
     binance: "#F0B90B",
 };
-var lightColors = __assign(__assign(__assign({}, baseColors), brandColors), { background: "#f1f6f8", backgroundDisabled: "#E9EAEB", contrast: "#191326", invertedContrast: "#FFFFFF", input: "#eeeeee", tertiary: "#EFF4F5", text: "#4062CB", textDisabled: "#BDC2C4", textSubtle: "#4062CB", borderColor: "#E9EAEB", card: "#FFFFFF", gradients: {
+var lightColors = __assign(__assign(__assign({}, baseColors), brandColors), { background: "#f1f6f8", backgroundDisabled: "#E9EAEB", contrast: "#191326", invertedContrast: "#FFFFFF", input: "#eeeeee", tertiary: "#EFF4F5", text: "#028E9B", textDisabled: "#BDC2C4", textSubtle: "#028E9B", borderColor: "#E9EAEB", card: "#FFFFFF", gradients: {
         bubblegum: "linear-gradient(139.73deg, #E6FDFF 0%, #F3EFFF 100%)",
     } });
 var darkColors = __assign(__assign(__assign({}, baseColors), brandColors), { secondary: "#05FC9C", background: "#100C18", backgroundDisabled: "#3c3742", contrast: "#FFFFFF", invertedContrast: "#191326", input: "#483f5a", primaryDark: "#0098A1", tertiary: "#353547", text: "#EAE2FC", textDisabled: "#666171", textSubtle: "#EAE2FC", borderColor: "#524B63", card: "#27262c", gradients: {
